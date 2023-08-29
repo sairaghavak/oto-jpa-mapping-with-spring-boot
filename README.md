@@ -2,7 +2,7 @@
 
 - This is a SpringBoot application sample that demonstrates the one to one mapping in JPA having `spring-boot-starter-data-jpa` as main dependency along with `spring-boot-starter-web`, `h2`, and `lombok`.
 
-- How it works?
+- How does it work?
   - This sample app will create schema at the application startup and inserts a record in each table i.e., `driver` and `driver_license` tables and creates a 1-1 association.
     - The bi-directional mapping is verified by retrieving the `DrivingLicense` from `Driver` entity.
 

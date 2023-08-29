@@ -13,7 +13,7 @@
 	<artifactId>oto-jpa-mapping-with-sb</artifactId>
 	<version>0.0.1</version>
 	<name>oto-jpa-mapping-with-sb</name>
-	<description>1-1JPA Mapping with Spring Boot</description>
+	<description>One to One JPA Mapping with Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
